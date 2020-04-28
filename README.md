@@ -22,4 +22,8 @@ OSPF 與 IGRP 不同之處在於，前者支援 VLSM (Variable Length Subnet Mas
      
      ＊ OSPF: cost == connection speed
   
-- [x]
+- [x] Usage of Band Width, 佔用頻寬
+
+     ＊ RIP: Broadcast / 30 sec
+     
+     ＊ OSPF: Broadcast while changed occurs
