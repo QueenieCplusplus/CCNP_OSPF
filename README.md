@@ -6,11 +6,15 @@ OSPF 與 IGRP 不同之處在於，前者支援 VLSM (Variable Length Subnet Mas
 
 # OSPF, 開啟最短路徑為第一
 
-- [x] Speed of Convergence Optimization using Parallel Computing. 使用平行運算方式處理路徑問題，
+- [x] Speed of Convergence Optimization using Parallel Computing. 使用平行運算方式處理路徑問題。
 
-- [x]
+- [x] Support VLSM, 支援可變動長度子網路遮罩。
 
-- [x]
+- [x] Network Reachability, 網路觸及範圍：
+   
+     ＊ RIP: max: 15 hops
+     
+     ＊ OSPF: without limitation
 
 - [x]
 
