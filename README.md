@@ -12,18 +12,18 @@ OSPF 與 IGRP 不同之處在於，前者支援 VLSM (Variable Length Subnet Mas
 
 - [x] Network Reachability, 網路觸及範圍：
    
-     ＊ RIP: max: 15 hops
+     * RIP: max: 15 hops
      
-     ＊ OSPF: without limitation
+     * OSPF: without limitation
 
 - [x] Method for Path Selection, 路徑選擇方式：
 
-     ＊ RIP: hop count
+     * RIP: hop count
      
-     ＊ OSPF: cost == connection speed
+     * OSPF: cost == connection speed
   
 - [x] Usage of Band Width, 佔用頻寬
 
-     ＊ RIP: Broadcast / 30 sec
+     * RIP: Broadcast / 30 sec
      
-     ＊ OSPF: Broadcast while changed occurs
+     * OSPF: Broadcast while changed occurs
