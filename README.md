@@ -16,6 +16,10 @@ OSPF 與 IGRP 不同之處在於，前者支援 VLSM (Variable Length Subnet Mas
      
      ＊ OSPF: without limitation
 
-- [x]
+- [x] Method for Path Selection, 路徑選擇方式：
 
+     ＊ RIP: hop count
+     
+     ＊ OSPF: cost == connection speed
+  
 - [x]
