@@ -1,5 +1,7 @@
 # CCNP OSPF
 
+https://github.com/QueenieCplusplus/Static_and_Dynamic (see dynmic routing for private IP)
+
 因於本來的 RIP、IGP 無法處理大型網路，所以才有 OSPF、IGRP、EIGRP 的出現。在處理大型的互聯網路中，OSPF 整體表現比 RIP 好很多。
 
 OSPF 與 IGRP 不同之處在於，前者支援 VLSM (Variable Length Subnet Mask)。
