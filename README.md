@@ -35,8 +35,10 @@ OSPF 與 IGRP 不同之處在於，前者支援 VLSM (Variable Length Subnet Mas
 
      * RIP: Broadcast / 30 sec
      
+https://github.com/QueenieCplusplus/ND (IPv6)
+     
      * OSPF: Broadcast while changed occurs
      
 https://github.com/QueenieCplusplus/OSPF (LSA, Link-State Advertisement, 鏈結層通告)
 
-https://github.com/QueenieCplusplus/ND (IPv6)
+
