@@ -8,6 +8,10 @@ https://github.com/QueenieCplusplus/Interior_and_Exterior (see interior)
 
 OSPF 與 IGRP 不同之處在於，前者支援 VLSM (Variable Length Subnet Mask)。
 
+* Router:
+
+![r](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95224182_4236886282991814_3284423901420978176_o.png?_nc_cat=101&_nc_sid=110474&_nc_ohc=A1lTMDp62hkAX8ArXKh&_nc_ht=scontent.ftpe8-2.fna&oh=b7e8a620a5a9048f51c17336feda1cd6&oe=5ECD09C5)
+
 # OSPF, 開啟最短路徑為第一
 
 
